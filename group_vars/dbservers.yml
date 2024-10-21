@@ -1,0 +1,3 @@
+---
+mysql_port: 3306
+mysql_max_connections: 150
